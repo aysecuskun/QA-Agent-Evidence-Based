@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+jenkins_build_*.xml
+jenkins_build_*.log
+jenkins_build_*.txt
+failed_build_console.txt
+openAI analiz sonucu.txt
+qa_dashboard_build_*.html
+qa_report_build_*.md
+qa_agent_dashboard_backup.py
+inspect_testng.py
+jenkins_build_test.py
+jenkins_connection_test.py
+jenkins_log_test.py
+jenkins_report_test.py
